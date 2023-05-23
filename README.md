@@ -1,5 +1,9 @@
 # YoutubeChatOnTop
-For streaming youtube, reads the chat, displays it on top of your game
+For streaming youtube...
+
+- reads the chat 
+- displays it on top of your game
+- robot voice speaks the chat aloud
 
 # Installation:
 
