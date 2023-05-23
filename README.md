@@ -1,5 +1,5 @@
 # YoutubeChatOnTop
-For streaming youtube...
+For Live streaming on Youtube...
 
 - reads the chat 
 - displays it on top of your game
