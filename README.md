@@ -7,6 +7,6 @@ For Live streaming on Youtube...
 
 # Installation:
 
-pip install pyttsx3 win32gui win32api pytchat tkinter
+-pip install pyttsx3 win32gui win32api pytchat tkinter
 
-when streaming, change (video_id="GrvXQ3sEre0") to your stream ID and run
+-when streaming, change (video_id="GrvXQ3sEre0") to your stream ID and run
