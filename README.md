@@ -1,6 +1,6 @@
 # YoutubeChatOnTop
 For streaming youtube, reads the chat, displays it on top of your game
 
-Installation: pip install pyttsx3 win32gui win32api pytchat tkinter
+# Installation: pip install pyttsx3 win32gui win32api pytchat tkinter
 
 when streaming, change (video_id="GrvXQ3sEre0") to your stream ID and run
